@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "a1c5c05b-97a5-4f50-889f-58440eddf40f",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Invoice Date",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.931Z",
+    "modifiedDate": "2023-03-13T11:03:57.931Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "a1c5c05b-97a5-4f50-889f-58440eddf40f",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Invoice Date"
+      ],
+      "qFieldLabels": [
+        "Invoice Date"
+      ],
+      "title": "Invoice Date"
+    },
+    "qMetaDef": {
+      "title": "Invoice Date",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

@@ -1,0 +1,15 @@
+{
+  "qId": "f7c7c9d4-ab63-4263-b7c3-6564d78e11c7",
+  "qName": "Google_Drive - CT",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvWebStorageProviderConnectorPackage.exe;sourceType=File_GoogleDriveConnector;NA - OAuth2={%3screenName%3:%3User: chua.chee.tiong2@gmail.com%3,%3created%3:%324 Sep 2023 13:31:01%3,%3expires%3:%3N/A%3};\"",
+  "qType": "QvWebStorageProviderConnectorPackage.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list"
+    ]
+  },
+  "qLogOn": "LOG_ON_CURRENT_USER"
+}

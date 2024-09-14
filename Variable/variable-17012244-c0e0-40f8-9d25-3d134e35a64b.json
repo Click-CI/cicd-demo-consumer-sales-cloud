@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "17012244-c0e0-40f8-9d25-3d134e35a64b",
+    "qType": "variable"
+  },
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "17012244-c0e0-40f8-9d25-3d134e35a64b",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vMeat",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "200",
+    "tags": []
+  },
+  "qChildInfos": null
+}

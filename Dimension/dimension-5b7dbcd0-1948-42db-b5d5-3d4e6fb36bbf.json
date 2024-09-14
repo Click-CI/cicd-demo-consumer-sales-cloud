@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "5b7dbcd0-1948-42db-b5d5-3d4e6fb36bbf",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "City",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.865Z",
+    "modifiedDate": "2023-03-13T11:03:57.865Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "5b7dbcd0-1948-42db-b5d5-3d4e6fb36bbf",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "City"
+      ],
+      "qFieldLabels": [
+        "City"
+      ],
+      "title": "City"
+    },
+    "qMetaDef": {
+      "title": "City",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

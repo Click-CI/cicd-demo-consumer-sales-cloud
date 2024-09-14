@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "VSvJmYg",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Southern Revenue",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.921Z",
+    "modifiedDate": "2023-03-13T11:03:57.921Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "VSvJmYg",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Southern Revenue",
+      "qDef": "Sum({$\u003c[Region Name]={\"Southern\"}\u003e}   [Sales Quantity]*[Sales Price])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Southern Revenue",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

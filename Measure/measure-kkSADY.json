@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "kkSADY",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Sales Variance",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.951Z",
+    "modifiedDate": "2023-03-13T11:03:57.951Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "kkSADY",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Sales Variance",
+      "qDef": "if((sum([YTD Sales Amount])-sum([LY YTD Sales Amount]))/sum([LY YTD Sales Amount])\u003e-0.45, (sum([YTD Sales Amount])-sum([LY YTD Sales Amount]))/sum([LY YTD Sales Amount]), 0 )",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Sales Variance",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "PmfVCp",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Sales $ (Prev Sel)",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.911Z",
+    "modifiedDate": "2023-03-13T11:03:57.911Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "PmfVCp",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Sales $ (Prev Sel)",
+      "qDef": "Sum ({$2}[Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Sales $ (Prev Sel)",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

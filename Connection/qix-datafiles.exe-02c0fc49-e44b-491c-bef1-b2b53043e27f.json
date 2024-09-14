@@ -1,0 +1,12 @@
+{
+  "qId": "02c0fc49-e44b-491c-bef1-b2b53043e27f",
+  "qName": "DataFiles",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=test_shared_space:datafiles;\"",
+  "qType": "qix-datafiles.exe",
+  "qMeta": {
+    "privileges": [
+      "read"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

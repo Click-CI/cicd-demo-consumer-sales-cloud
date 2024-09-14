@@ -1,0 +1,15 @@
+{
+  "qId": "f71d2e65-787f-477a-99eb-8da3ce4df59c",
+  "qName": "Amazon_S3_V2",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvWebStorageProviderConnectorPackage.exe;sourceType=File_AmazonS3ConnectorV2;region=eu-central-1;bucketName=qlik-script;separateCredentials=true;\"",
+  "qType": "QvWebStorageProviderConnectorPackage.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list"
+    ]
+  },
+  "qLogOn": "LOG_ON_CURRENT_USER"
+}

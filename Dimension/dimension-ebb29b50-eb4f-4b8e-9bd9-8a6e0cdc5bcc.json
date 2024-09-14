@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "ebb29b50-eb4f-4b8e-9bd9-8a6e0cdc5bcc",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "State",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.938Z",
+    "modifiedDate": "2023-03-13T11:03:57.938Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "ebb29b50-eb4f-4b8e-9bd9-8a6e0cdc5bcc",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "State"
+      ],
+      "qFieldLabels": [
+        "State"
+      ],
+      "title": "State"
+    },
+    "qMetaDef": {
+      "title": "State",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

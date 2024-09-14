@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "05778c9f-aef0-4078-a577-4cfffd8ebfbe",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Customer",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.859Z",
+    "modifiedDate": "2023-03-13T11:03:57.859Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "05778c9f-aef0-4078-a577-4cfffd8ebfbe",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Customer"
+      ],
+      "qFieldLabels": [
+        "Customer"
+      ],
+      "title": "Customer"
+    },
+    "qMetaDef": {
+      "title": "Customer",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

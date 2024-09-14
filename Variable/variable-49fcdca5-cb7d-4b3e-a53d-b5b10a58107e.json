@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "49fcdca5-cb7d-4b3e-a53d-b5b10a58107e",
+    "qType": "variable"
+  },
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "49fcdca5-cb7d-4b3e-a53d-b5b10a58107e",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vDeli",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "100",
+    "tags": []
+  },
+  "qChildInfos": null
+}

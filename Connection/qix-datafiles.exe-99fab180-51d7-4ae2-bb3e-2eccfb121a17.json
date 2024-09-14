@@ -1,0 +1,12 @@
+{
+  "qId": "99fab180-51d7-4ae2-bb3e-2eccfb121a17",
+  "qName": "DataPrepAppCache",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=sa:dataprepappcache;\"",
+  "qType": "qix-datafiles.exe",
+  "qMeta": {
+    "privileges": [
+      "read"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

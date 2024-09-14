@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "5b68675d-30a0-4e5c-9c11-efe9dba2fd1a",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Regional Sales Mgr",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.865Z",
+    "modifiedDate": "2023-03-13T11:03:57.865Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "5b68675d-30a0-4e5c-9c11-efe9dba2fd1a",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Regional Sales Mgr Name"
+      ],
+      "qFieldLabels": [
+        "Regional Sales Mgr"
+      ],
+      "title": "Regional Sales Mgr"
+    },
+    "qMetaDef": {
+      "title": "Regional Sales Mgr",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

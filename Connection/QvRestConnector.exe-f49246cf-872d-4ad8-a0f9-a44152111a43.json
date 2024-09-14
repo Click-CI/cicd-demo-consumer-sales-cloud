@@ -1,0 +1,15 @@
+{
+  "qId": "f49246cf-872d-4ad8-a0f9-a44152111a43",
+  "qName": "pmt_graphQL_L\u0026R",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://api.pinmeto.com/v2/pinmeto/insights/;timeout=30;readwritetimeout=300;method=POST;requestBody={%3query%3 :%3{ listenRespond (fromDate: \\%32019-01-01\\%3 toDate:\\%32021-06-22\\%3 ){ inbound {date count } types{ date user_posts reviews comments }respondTime {date median_seconds median }closed { date count }closeTime {date  median_seconds median}repliedTo{date count} }}%3};httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;XMLDTD=0;authSchema=anonymous;serverCertificateValidation=UseTrust;enableMutualSSL=false;queryParameters=access_token%2e06ecdc26ee8227fc7d319a7d8880b09dbff5607%1;addMissingQueryParametersToFinalRequest=false;queryHeaders=Content-Type%2application/json%1;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;\"",
+  "qType": "QvRestConnector.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list"
+    ]
+  },
+  "qLogOn": "LOG_ON_CURRENT_USER"
+}

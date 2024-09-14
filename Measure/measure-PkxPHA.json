@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "PkxPHA",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "New Customer Count",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.910Z",
+    "modifiedDate": "2023-03-13T11:03:57.910Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "PkxPHA",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "New Customer Count",
+      "qDef": "Count({$\u003cCust_New={\"1\"}\u003e} distinct Customer)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "New Customer Count",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

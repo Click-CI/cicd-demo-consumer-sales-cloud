@@ -1,0 +1,15 @@
+{
+  "qId": "da49a8e7-a78c-49d2-aa74-eb635d27d42f",
+  "qName": "QRS GET",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://psdemo.eu.qlikcloud.com/:4242/qrs/user/full;timeout=30;readwritetimeout=300;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=false;checkResponseTypeOnTestConnection=false;keyGenerationStrategy=0;XMLDTD=0;authSchema=anonymous;serverCertificateValidation=None;checkCertificateRevocation=false;enableMutualSSL=false;queryParameters=xrfkey%2abcdefg123456789%1;addMissingQueryParametersToFinalRequest=true;queryHeaders=X-Qlik-Xrfkey%2abcdefg123456789%1;allowWithConnection=false;PaginationType=None;allowResponseHeaders=true;allowHttpsOnly=false;\"",
+  "qType": "QvRestConnector.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list"
+    ]
+  },
+  "qLogOn": "LOG_ON_CURRENT_USER"
+}

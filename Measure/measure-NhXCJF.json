@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "NhXCJF",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Order Count",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.898Z",
+    "modifiedDate": "2023-03-13T11:03:57.898Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "NhXCJF",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Order Count",
+      "qDef": "Count(distinct [Order Number])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Order Count",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

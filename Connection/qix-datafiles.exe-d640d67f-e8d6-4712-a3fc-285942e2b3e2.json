@@ -1,0 +1,12 @@
+{
+  "qId": "d640d67f-e8d6-4712-a3fc-285942e2b3e2",
+  "qName": "DataFiles",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=SCALUE_TENANT_TEST:datafiles;\"",
+  "qType": "qix-datafiles.exe",
+  "qMeta": {
+    "privileges": [
+      "read"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "194ec95b-6cce-4d90-ba53-c099c762f14b",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Basket Item",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.860Z",
+    "modifiedDate": "2023-03-13T11:03:57.860Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "194ec95b-6cce-4d90-ba53-c099c762f14b",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "BasketItem"
+      ],
+      "qFieldLabels": [
+        "Basket Item"
+      ],
+      "title": "Basket Item"
+    },
+    "qMetaDef": {
+      "title": "Basket Item",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

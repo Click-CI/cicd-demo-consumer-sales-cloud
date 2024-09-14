@@ -1,0 +1,15 @@
+{
+  "qId": "f375b89e-7c85-48e7-8b21-b97891f81451",
+  "qName": "PMT_locations",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://api.pinmeto.com/v2/pinmeto/locations;timeout=30;readwritetimeout=300;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;XMLDTD=0;authSchema=anonymous;serverCertificateValidation=UseTrust;enableMutualSSL=false;queryParameters=access_token%2606e17cebec6192fb1bdb0500ef732479ae29beb%1;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;\"",
+  "qType": "QvRestConnector.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list"
+    ]
+  },
+  "qLogOn": "LOG_ON_CURRENT_USER"
+}

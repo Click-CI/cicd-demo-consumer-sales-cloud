@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "BZtaxw",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Avg Sales (Prev Sel)",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.875Z",
+    "modifiedDate": "2023-03-13T11:03:57.875Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "BZtaxw",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Avg Sales (Prev Sel)",
+      "qDef": "Avg( {$2} [Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Avg Sales (Prev Sel)",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

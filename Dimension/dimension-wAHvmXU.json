@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "wAHvmXU",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Area",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.821Z",
+    "modifiedDate": "2023-03-13T11:03:57.821Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "wAHvmXU",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Area"
+      ],
+      "qFieldLabels": [
+        "Area"
+      ],
+      "title": "Area"
+    },
+    "qMetaDef": {
+      "title": "Area",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

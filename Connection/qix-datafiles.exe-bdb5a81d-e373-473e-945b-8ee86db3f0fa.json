@@ -1,0 +1,12 @@
+{
+  "qId": "bdb5a81d-e373-473e-945b-8ee86db3f0fa",
+  "qName": "DataPrepAppCache",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=SCALUE_TENANT_TEST:dataprepappcache;\"",
+  "qType": "qix-datafiles.exe",
+  "qMeta": {
+    "privileges": [
+      "read"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

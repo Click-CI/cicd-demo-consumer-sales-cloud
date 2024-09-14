@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "HhGPsEN",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Margin % (Prev Selection)",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.889Z",
+    "modifiedDate": "2023-03-13T11:03:57.889Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "HhGPsEN",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Margin % (Prev Selection)",
+      "qDef": "Sum({$2}[Sales Margin Amount])/Sum({$2}[Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Margin % (Prev Selection)",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

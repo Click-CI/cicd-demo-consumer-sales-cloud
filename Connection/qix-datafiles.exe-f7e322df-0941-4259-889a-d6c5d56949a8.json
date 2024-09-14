@@ -1,0 +1,12 @@
+{
+  "qId": "f7e322df-0941-4259-889a-d6c5d56949a8",
+  "qName": "DataFiles",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=KidsRead:datafiles;\"",
+  "qType": "qix-datafiles.exe",
+  "qMeta": {
+    "privileges": [
+      "read"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

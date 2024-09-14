@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "ff2eacfa-de6b-4c18-bdb1-cae3c61db8ce",
+    "qType": "variable"
+  },
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "ff2eacfa-de6b-4c18-bdb1-cae3c61db8ce",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vEggs",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "300",
+    "tags": []
+  },
+  "qChildInfos": null
+}

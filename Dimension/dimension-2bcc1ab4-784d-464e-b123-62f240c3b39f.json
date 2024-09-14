@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "2bcc1ab4-784d-464e-b123-62f240c3b39f",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Sales Rep",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.861Z",
+    "modifiedDate": "2023-03-13T11:03:57.861Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "2bcc1ab4-784d-464e-b123-62f240c3b39f",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Sales Rep Name"
+      ],
+      "qFieldLabels": [
+        "Sales Rep"
+      ],
+      "title": "Sales Rep"
+    },
+    "qMetaDef": {
+      "title": "Sales Rep",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

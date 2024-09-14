@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "JSdCZJv",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Total Shipments",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.889Z",
+    "modifiedDate": "2023-03-13T11:03:57.889Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "JSdCZJv",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Total Shipments",
+      "qDef": "count(distinct Shipments)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Total Shipments",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

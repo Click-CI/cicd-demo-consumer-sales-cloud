@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "uQbd",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Actual Amount",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.978Z",
+    "modifiedDate": "2023-03-13T11:03:57.978Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "uQbd",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Actual Amount",
+      "qDef": "Sum ([Actual Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Actual Amount",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

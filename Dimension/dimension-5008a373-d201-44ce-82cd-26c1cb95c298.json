@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "5008a373-d201-44ce-82cd-26c1cb95c298",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Basket Product Desc",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.864Z",
+    "modifiedDate": "2023-03-13T11:03:57.864Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "5008a373-d201-44ce-82cd-26c1cb95c298",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Basket Item Desc"
+      ],
+      "qFieldLabels": [
+        "Basket Product Desc"
+      ],
+      "title": "Basket Product Desc"
+    },
+    "qMetaDef": {
+      "title": "Basket Product Desc",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "8566e158-7f06-4324-9e73-d7688b574821",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Product Type Desc",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.866Z",
+    "modifiedDate": "2023-03-13T11:03:57.866Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "8566e158-7f06-4324-9e73-d7688b574821",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Type Desc"
+      ],
+      "qFieldLabels": [
+        "Product Type Desc"
+      ],
+      "title": "Product Type Desc"
+    },
+    "qMetaDef": {
+      "title": "Product Type Desc",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

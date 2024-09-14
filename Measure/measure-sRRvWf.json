@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "sRRvWf",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Inventory",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.967Z",
+    "modifiedDate": "2023-03-13T11:03:57.967Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "sRRvWf",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Inventory",
+      "qDef": "Sum (Inventory)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Inventory",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

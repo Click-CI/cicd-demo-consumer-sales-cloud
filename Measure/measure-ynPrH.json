@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "ynPrH",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Lost Customer Count",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.983Z",
+    "modifiedDate": "2023-03-13T11:03:57.983Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "ynPrH",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Lost Customer Count",
+      "qDef": "Count({$\u003cCust_Lost={\"1\"}\u003e} distinct Customer)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Lost Customer Count",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

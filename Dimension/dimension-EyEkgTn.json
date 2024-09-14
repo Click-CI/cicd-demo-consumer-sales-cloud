@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "EyEkgTn",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Budget Period",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.884Z",
+    "modifiedDate": "2023-03-13T11:03:57.884Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "EyEkgTn",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "textBudgetPeriod"
+      ],
+      "qFieldLabels": [
+        "Budget Period"
+      ],
+      "title": "Budget Period"
+    },
+    "qMetaDef": {
+      "title": "Budget Period",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

@@ -1,0 +1,17 @@
+{
+  "qId": "21486287-af84-4e79-9d7c-75bc0d0fc686",
+  "qName": "qlik.extendbi.com_8001",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://qlik.extendbi.com:8001/api/kapsule;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=false;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=true;useCertificate=No;certificateStoreLocation=CurrentUser;certificateStoreName=My;queryParameters=markReloaded%2true;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;queryHeaders=Authorization%2Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkJvaHVhIExpIiwic3ViIjpudWxsLCJyb2xlIjoiQURNSU4iLCJxbGlrSWQiOiJFWFRFTkRCSVxcYmwiLCJpc0NyZWF0ZSI6dHJ1ZSwiaWF0IjoxNjg0MjY1NDE0fQ.1j_B7XtJ2nJIzGUS7lVi7_p62BfCnlf1y47aeLvamSI%1;\"",
+  "qType": "QvRestConnector.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list",
+      "read",
+      "update"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "MGKVm",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Central Margin %",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.897Z",
+    "modifiedDate": "2023-03-13T11:03:57.897Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "MGKVm",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Central Margin %",
+      "qDef": "Sum({$ \u003c[Region Name]={\"Central\"}\u003e }[Sales Margin Amount])/Sum({$ \u003c[Region Name]={\"Central\"}\u003e }[Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Central Margin %",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

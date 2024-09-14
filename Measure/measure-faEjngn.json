@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "faEjngn",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "TY Sales",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.939Z",
+    "modifiedDate": "2023-03-13T11:03:57.939Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "faEjngn",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "TY Sales",
+      "qDef": "Sum({$\u003c[Year]={\"2007\"}\u003e}[Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "TY Sales",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

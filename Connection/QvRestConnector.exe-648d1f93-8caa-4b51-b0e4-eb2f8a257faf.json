@@ -1,0 +1,15 @@
+{
+  "qId": "648d1f93-8caa-4b51-b0e4-eb2f8a257faf",
+  "qName": "next-gen-komment-connection",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://kaptain.extendbi.com/api/kapsule;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=false;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=true;useCertificate=No;certificateStoreLocation=CurrentUser;certificateStoreName=My;queryParameters=markReloaded%2true;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;queryHeaders=Authorization%2Bearer apiKey%1;\"",
+  "qType": "QvRestConnector.exe",
+  "qMeta": {
+    "privileges": [
+      "change_owner",
+      "change_space",
+      "delete",
+      "list"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

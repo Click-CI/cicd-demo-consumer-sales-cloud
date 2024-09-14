@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "34309143-5faf-461d-814d-cb219c38da07",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Product",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.861Z",
+    "modifiedDate": "2023-03-13T11:03:57.861Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "34309143-5faf-461d-814d-cb219c38da07",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Line Desc 1"
+      ],
+      "qFieldLabels": [
+        "Product"
+      ],
+      "title": "Product"
+    },
+    "qMetaDef": {
+      "title": "Product",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

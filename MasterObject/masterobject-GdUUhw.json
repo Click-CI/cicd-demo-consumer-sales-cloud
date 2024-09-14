@@ -1,0 +1,90 @@
+{
+  "qInfo": {
+    "qId": "GdUUhw",
+    "qType": "masterobject"
+  },
+  "qMeta": {
+    "title": "Color by",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.885Z",
+    "modifiedDate": "2023-03-13T11:03:57.885Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "GdUUhw",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Color by",
+      "tags": []
+    },
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "visualization": "filterpane",
+    "masterVersion": 0.96,
+    "metadata": {}
+  },
+  "qChildInfos": [
+    {
+      "qInfo": {
+        "qId": "d6399671-ce5a-4472-a398-360380bc72cb",
+        "qType": "listbox"
+      },
+      "qMeta": {},
+      "qProperties": {
+        "qInfo": {
+          "qId": "d6399671-ce5a-4472-a398-360380bc72cb",
+          "qType": "listbox"
+        },
+        "qMetaDef": {},
+        "qListObjectDef": {
+          "qLibraryId": "e062299e-2690-4b48-8267-a3d25f214abb",
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qSortCriterias": [
+              {
+                "qSortByState": 1,
+                "qSortByNumeric": 1,
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0,
+            "autoSort": true,
+            "cId": "qVHWNS"
+          },
+          "qFrequencyMode": "N",
+          "qShowAlternatives": true,
+          "qInitialDataFetch": [],
+          "qExpressions": [],
+          "qOtherTotalSpec": {}
+        },
+        "showTitles": true,
+        "title": "Color by",
+        "subtitle": "",
+        "footnote": "",
+        "visualization": "listbox"
+      },
+      "qChildInfos": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "3d68c2fa-44f8-4d05-9068-3e505933e04b",
+    "qType": "variable"
+  },
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "3d68c2fa-44f8-4d05-9068-3e505933e04b",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vProductValue",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "=if($1='Deli', $(vDeli), if($1='Meat', $(vMeat), $(vEggs)))",
+    "tags": []
+  },
+  "qChildInfos": null
+}

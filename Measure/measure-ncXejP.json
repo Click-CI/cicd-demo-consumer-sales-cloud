@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "ncXejP",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "Margin %",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.954Z",
+    "modifiedDate": "2023-03-13T11:03:57.954Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "ncXejP",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Margin %",
+      "qDef": "Sum([Sales Margin Amount])/Sum([Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Margin %",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

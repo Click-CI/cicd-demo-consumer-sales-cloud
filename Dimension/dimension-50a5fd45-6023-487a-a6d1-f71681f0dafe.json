@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "50a5fd45-6023-487a-a6d1-f71681f0dafe",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Month",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.864Z",
+    "modifiedDate": "2023-03-13T11:03:57.864Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "50a5fd45-6023-487a-a6d1-f71681f0dafe",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Month"
+      ],
+      "qFieldLabels": [
+        "Month"
+      ],
+      "title": "Month"
+    },
+    "qMetaDef": {
+      "title": "Month",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

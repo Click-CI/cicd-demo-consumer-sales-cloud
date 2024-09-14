@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "cf1d8ef8-4020-4f81-b487-514c354875b4",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Region Name",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.934Z",
+    "modifiedDate": "2023-03-13T11:03:57.934Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "cf1d8ef8-4020-4f81-b487-514c354875b4",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Region Name"
+      ],
+      "qFieldLabels": [
+        "Region Name"
+      ],
+      "title": "Region Name"
+    },
+    "qMetaDef": {
+      "title": "Region Name",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

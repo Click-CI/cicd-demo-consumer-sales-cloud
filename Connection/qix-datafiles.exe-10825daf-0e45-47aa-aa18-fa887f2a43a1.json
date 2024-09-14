@@ -1,0 +1,12 @@
+{
+  "qId": "10825daf-0e45-47aa-aa18-fa887f2a43a1",
+  "qName": "DataFiles",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=Scalue Agents:datafiles;\"",
+  "qType": "qix-datafiles.exe",
+  "qMeta": {
+    "privileges": [
+      "read"
+    ]
+  },
+  "qLogOn": "LOG_ON_SERVICE_USER"
+}

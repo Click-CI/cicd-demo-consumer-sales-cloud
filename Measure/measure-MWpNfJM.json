@@ -1,0 +1,44 @@
+{
+  "qInfo": {
+    "qId": "MWpNfJM",
+    "qType": "measure"
+  },
+  "qMeta": {
+    "title": "TY vs LY Sales",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.897Z",
+    "modifiedDate": "2023-03-13T11:03:57.897Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "MWpNfJM",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "TY vs LY Sales",
+      "qDef": "(sum([YTD Sales Amount])-sum([LY YTD Sales Amount])*0.2)/sum([LY YTD Sales Amount])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "TY vs LY Sales",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

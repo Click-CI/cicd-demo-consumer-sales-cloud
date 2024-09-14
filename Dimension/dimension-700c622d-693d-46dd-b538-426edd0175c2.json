@@ -1,0 +1,42 @@
+{
+  "qInfo": {
+    "qId": "700c622d-693d-46dd-b538-426edd0175c2",
+    "qType": "dimension"
+  },
+  "qMeta": {
+    "title": "Year",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.866Z",
+    "modifiedDate": "2023-03-13T11:03:57.866Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "700c622d-693d-46dd-b538-426edd0175c2",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Year"
+      ],
+      "qFieldLabels": [
+        "Year"
+      ],
+      "title": "Year"
+    },
+    "qMetaDef": {
+      "title": "Year",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": null
+}

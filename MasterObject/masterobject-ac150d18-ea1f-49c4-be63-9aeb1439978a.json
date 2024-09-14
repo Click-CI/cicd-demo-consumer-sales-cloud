@@ -1,0 +1,179 @@
+{
+  "qInfo": {
+    "qId": "ac150d18-ea1f-49c4-be63-9aeb1439978a",
+    "qType": "masterobject"
+  },
+  "qMeta": {
+    "title": "KPI 01",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.932Z",
+    "modifiedDate": "2023-03-13T11:03:57.932Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "ac150d18-ea1f-49c4-be63-9aeb1439978a",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "KPI 01",
+      "description": "",
+      "tags": []
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [],
+      "qMeasures": [
+        {
+          "qDef": {
+            "qLabel": "Margin %",
+            "qTags": [],
+            "qGrouping": "N",
+            "qDef": "Sum([Sales Margin Amount])/Sum([Sales Amount])",
+            "qNumFormat": {
+              "qType": "F",
+              "qnDec": 2,
+              "qUseThou": 0,
+              "qFmt": "0%",
+              "qDec": ".",
+              "qThou": ","
+            },
+            "qAccumulate": 0,
+            "qActiveExpression": 0,
+            "qExpressions": [],
+            "autoSort": true,
+            "cId": "gpJbnp",
+            "numFormatFromTemplate": true,
+            "conditionalColoring": {
+              "useConditionalColoring": false,
+              "singleColor": 3,
+              "segments": {
+                "limits": [],
+                "colors": [
+                  {
+                    "color": 2
+                  }
+                ],
+                "paletteColors": [
+                  {
+                    "index": -1,
+                    "color": "#276e27"
+                  }
+                ]
+              },
+              "useBaseColors": false,
+              "paletteSingleColor": {
+                "index": 3,
+                "color": "#276e27"
+              }
+            },
+            "measureAxis": {
+              "min": 0,
+              "max": 100
+            }
+          },
+          "qSortBy": {
+            "qSortByNumeric": -1,
+            "qSortByLoadOrder": 1,
+            "qExpression": {}
+          },
+          "qAttributeExpressions": [],
+          "qAttributeDimensions": [],
+          "qCalcCond": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qTrendLines": [],
+          "qMiniChartDef": {
+            "qSortBy": {
+              "qExpression": {}
+            },
+            "qOtherTotalSpec": {
+              "qOtherMode": "OTHER_OFF",
+              "qOtherCounted": {},
+              "qOtherLimit": {},
+              "qOtherLimitMode": "OTHER_GT_LIMIT",
+              "qForceBadValueKeeping": true,
+              "qApplyEvenWhenPossiblyWrongResult": true,
+              "qOtherSortMode": "OTHER_SORT_DESCENDING",
+              "qTotalMode": "TOTAL_OFF",
+              "qReferencedExpression": {}
+            },
+            "qMaxNumberPoints": -1,
+            "qAttributeExpressions": []
+          }
+        }
+      ],
+      "qInterColumnSortOrder": [
+        0
+      ],
+      "qSuppressMissing": true,
+      "qInitialDataFetch": [
+        {
+          "qLeft": 0,
+          "qTop": 0,
+          "qWidth": 500,
+          "qHeight": 10
+        }
+      ],
+      "qReductionMode": "N",
+      "qMode": "S",
+      "qPseudoDimPos": -1,
+      "qNoOfLeftDims": -1,
+      "qMaxStackedCells": 5000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qDynamicScript": [],
+      "customErrorMessage": {
+        "calcCond": ""
+      },
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": []
+        }
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showMeasureTitle": true,
+    "textAlign": "center",
+    "fontSize": "L",
+    "useLink": true,
+    "visualization": "kpi",
+    "sheetLink": "DuXnF",
+    "masterVersion": 0.96
+  },
+  "qChildInfos": []
+}

@@ -1,0 +1,34 @@
+{
+  "qInfo": {
+    "qId": "35929e08-2288-420b-8f2d-fee01c8e7a94",
+    "qType": "bookmark"
+  },
+  "qMeta": {
+    "title": "Bookmark1",
+    "description": "",
+    "createdDate": "2023-03-13T11:03:57.862Z",
+    "modifiedDate": "2023-03-13T11:03:57.862Z",
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish",
+      "change_owner"
+    ]
+  },
+  "qProperties": {
+    "qInfo": {
+      "qId": "35929e08-2288-420b-8f2d-fee01c8e7a94",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Bookmark1",
+      "description": ""
+    },
+    "creationDate": "2021-11-07T23:36:06.384Z",
+    "sheetId": "DuXnF",
+    "selectionFields": "State"
+  },
+  "qChildInfos": null
+}
