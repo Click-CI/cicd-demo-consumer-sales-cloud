@@ -1,7 +1,7 @@
 {
   "qId": "8149d04d-f5bd-43c3-b568-0b8afaab4c71",
   "qName": "DataFiles",
-  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=ci verification:datafiles;\"",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=ci+verification:datafiles;\"",
   "qType": "qix-datafiles.exe",
   "qMeta": {
     "privileges": [

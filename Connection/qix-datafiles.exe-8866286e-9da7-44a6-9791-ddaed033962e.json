@@ -1,7 +1,7 @@
 {
   "qId": "8866286e-9da7-44a6-9791-ddaed033962e",
   "qName": "DataFiles",
-  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=Scalue Data:datafiles;\"",
+  "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=Scalue+Data:datafiles;\"",
   "qType": "qix-datafiles.exe",
   "qMeta": {
     "privileges": [
