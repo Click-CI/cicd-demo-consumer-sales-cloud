@@ -7,7 +7,7 @@
     "title": "KPI Dashboard",
     "description": "View Margin %, Sales, and Budget. Navigate o other sheets for KPI details.",
     "createdDate": "2023-03-13T11:03:57.892Z",
-    "modifiedDate": "2024-09-14T19:53:38.189Z",
+    "modifiedDate": "2024-09-16T19:30:02.230Z",
     "published": true,
     "publishTime": "2023-08-03T08:31:03.688Z",
     "privileges": [
@@ -1229,8 +1229,8 @@
           "measureMin": 0,
           "measureMax": 10,
           "paletteColor": {
-            "index": 10,
-            "color": "#f93f17"
+            "index": 3,
+            "color": "#276e27"
           },
           "useDimColVal": false,
           "useMeasureGradient": false
