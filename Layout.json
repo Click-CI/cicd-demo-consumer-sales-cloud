@@ -2,7 +2,6 @@
   "qTitle": "Consumer Sales DEMO",
   "qFileName": "2b0e4d08-9e0b-47b1-ae87-1c7f0b08a4af",
   "qLastReloadTime": "2023-03-08T09:29:54.839Z",
-  "qModified": true,
   "qHasScript": true,
   "qStateNames": [],
   "qMeta": {},
@@ -85,7 +84,8 @@
   "owner": "auth0|5b6c9df4c23f8742b9448b3984838d82f3dc0bead7edc1b9b96e9cadfd158427",
   "ownerId": "len4s-6ZyCSuEPIzRj7QEE1Kieok7Klz",
   "createdDate": "2023-03-22T18:32:51.439Z",
-  "modifiedDate": "2023-03-22T18:33:13.554Z",
+  "modifiedDate": "2024-09-17T17:35:07.596Z",
+  "spaceId": "66e9bdb114b048a792686d01",
   "hassectionaccess": false,
   "_resourcetype": "app",
   "privileges": [

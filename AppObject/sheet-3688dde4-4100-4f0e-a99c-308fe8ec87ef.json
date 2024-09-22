@@ -12,7 +12,6 @@
     "publishTime": "2023-07-01T22:04:39.111Z",
     "privileges": [
       "read",
-      "update",
       "publish",
       "change_owner"
     ]
